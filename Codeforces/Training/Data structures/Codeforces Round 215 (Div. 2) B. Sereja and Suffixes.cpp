@@ -1,4 +1,5 @@
-// Problem Rate: 1100
+// Problem Link: https://codeforces.com/problemset/problem/368/B
+// Rate: 1100
 // Topics: data structures
 
 #include<bits/stdc++.h>
